@@ -30,7 +30,7 @@ src/         - source code
 
 ## Run the Project
 pip install -r requirements.txt
-python Main.py
+python main.py
 
 ## Author
 Rithick Kumar
