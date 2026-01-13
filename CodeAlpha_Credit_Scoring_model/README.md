@@ -28,5 +28,9 @@ models/      - trained models
 notebooks/   - Jupyter notebooks  
 src/         - source code  
 
+## Run the Project
+pip install -r requirements.txt
+python Main.py
+
 ## Author
 Rithick Kumar
